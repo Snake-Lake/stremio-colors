@@ -1,4 +1,4 @@
-group = "com.github.Stremio"
+group = "com.github.Snake-Lake"
 version = "5.2.0"
 
 buildscript {
